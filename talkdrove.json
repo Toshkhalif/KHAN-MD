@@ -8,7 +8,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KHAN-MD~m7ggFBrY#E4CJRlmNKwHdimtY3khIEByeNWqj_3QELJeuETPzVj4.",
       "required": true,
       "value": ""
     },  
@@ -25,7 +25,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
